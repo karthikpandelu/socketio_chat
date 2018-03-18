@@ -1,0 +1,19 @@
+body{
+    background-color: aliceblue;
+}
+
+.heading{
+    color: rgb(128, 0, 0);
+    text-align: center;
+    margin: 3%;
+}
+
+.options a {
+    text-decoration: none;
+    color: navy;
+    margin: 2%;
+}
+
+.options{
+    text-align: center;
+}
